@@ -1,0 +1,20 @@
+
+.header{
+   background-image: url(https://preview.redd.it/7tvs3jrrb7e91.jpg?width=640&crop=smart&auto=webp&s=5f4bcbc7c92ddb03295ec41207245d1bbff53dbc);
+   background-repeat: no-repeat;
+   background-size: 100%;
+   color: red;
+   margin: auto;
+   padding: 100px;
+}
+
+.products{
+    text-size-adjust: 50px;
+    background-image: url(https://media.tenor.com/mtzi4csExO8AAAAd/putin-walk-vladimir-putin.gif);
+    color: aqua;
+}
+
+body{
+    margin: 0;
+}
+
